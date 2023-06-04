@@ -1,0 +1,41 @@
+.body-container-desktop{
+background-color: #36384d;
+    width: 1440px;
+    height: 1080px;
+    direction: rtl;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.selection{
+    background-color: white;
+    width: 920px;
+    height: 740px;
+    border-radius: 25px;
+   position: relative;
+    
+    
+}
+.right-container{
+    background-color:#ff6549;
+    width: 450px;
+    height: 700px;
+    border-radius: 25px;
+    margin:15px 15px;
+}
+ .stay{
+    font-size: 1.2em;
+    font-style: bold;
+    color: #36384d;
+    position: absolute;
+   white-space: nowrap;
+    margin-top:50px;
+    margin-left: 300px;
+    margin-bottom: 200px;
+    margin-right: 610px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}

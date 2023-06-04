@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Roboto.ttf;
+    src: url(./assets/fonts/Roboto-Bold.ttf);
+}
+*{
+    direction: rtl;
+    font-family: Roboto;
+    box-sizing: border-box;
+}
+body{
+    font-size: 16px;
+    margin:0px;
+
+}
+a{
+    text-decoration: none;
+
+}
